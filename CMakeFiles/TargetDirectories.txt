@@ -1,0 +1,5 @@
+/Users/wangyusong/cplus-learn/hpc-hw/CMakeFiles/create_measurements.dir
+/Users/wangyusong/cplus-learn/hpc-hw/CMakeFiles/calculate_average_baseline.dir
+/Users/wangyusong/cplus-learn/hpc-hw/CMakeFiles/calculate_average.dir
+/Users/wangyusong/cplus-learn/hpc-hw/CMakeFiles/edit_cache.dir
+/Users/wangyusong/cplus-learn/hpc-hw/CMakeFiles/rebuild_cache.dir
